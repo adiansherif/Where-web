@@ -1,0 +1,31 @@
+.container {
+    width: 800x;
+    margin: 0 auto;
+    padding: 210px;
+  }
+  
+  .background {
+    
+    background-image: Url('assets/Untitled design.jpg');
+    background-size: 100%;
+    background-position:100%;
+    background-repeat: no-repeat;
+  }
+
+  h2 {
+    font-size: 40px;
+    font-weight:bolder;
+    margin-bottom: 10px;
+    margin-left: 150px;
+    
+  }
+  
+  p {
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    color:black;
+  }
+  
+  
